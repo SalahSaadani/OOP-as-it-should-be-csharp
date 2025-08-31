@@ -1,0 +1,7 @@
+D:\C# OOP\OOP IN C# - Private Constructor\bin\Debug\OOP IN C# - Private Constructor.exe.config
+D:\C# OOP\OOP IN C# - Private Constructor\bin\Debug\OOP IN C# - Private Constructor.exe
+D:\C# OOP\OOP IN C# - Private Constructor\bin\Debug\OOP IN C# - Private Constructor.pdb
+D:\C# OOP\OOP IN C# - Private Constructor\obj\Debug\OOP IN C# - Private Constructor.csproj.AssemblyReference.cache
+D:\C# OOP\OOP IN C# - Private Constructor\obj\Debug\OOP IN C# - Private Constructor.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP IN C# - Private Constructor\obj\Debug\OOP IN C# - Private Constructor.exe
+D:\C# OOP\OOP IN C# - Private Constructor\obj\Debug\OOP IN C# - Private Constructor.pdb

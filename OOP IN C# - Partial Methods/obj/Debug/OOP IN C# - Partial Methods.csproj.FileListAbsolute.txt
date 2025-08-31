@@ -1,0 +1,7 @@
+D:\C# OOP\OOP IN C# - Partial Methods\bin\Debug\OOP IN C# - Partial Methods.exe.config
+D:\C# OOP\OOP IN C# - Partial Methods\bin\Debug\OOP IN C# - Partial Methods.exe
+D:\C# OOP\OOP IN C# - Partial Methods\bin\Debug\OOP IN C# - Partial Methods.pdb
+D:\C# OOP\OOP IN C# - Partial Methods\obj\Debug\OOP IN C# - Partial Methods.csproj.AssemblyReference.cache
+D:\C# OOP\OOP IN C# - Partial Methods\obj\Debug\OOP IN C# - Partial Methods.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP IN C# - Partial Methods\obj\Debug\OOP IN C# - Partial Methods.exe
+D:\C# OOP\OOP IN C# - Partial Methods\obj\Debug\OOP IN C# - Partial Methods.pdb

@@ -1,0 +1,7 @@
+D:\C# OOP\OOP IN C# - Partial Classe\bin\Debug\OOP IN C# - Partial Classe.exe.config
+D:\C# OOP\OOP IN C# - Partial Classe\bin\Debug\OOP IN C# - Partial Classe.exe
+D:\C# OOP\OOP IN C# - Partial Classe\bin\Debug\OOP IN C# - Partial Classe.pdb
+D:\C# OOP\OOP IN C# - Partial Classe\obj\Debug\OOP IN C# - Partial Classe.csproj.AssemblyReference.cache
+D:\C# OOP\OOP IN C# - Partial Classe\obj\Debug\OOP IN C# - Partial Classe.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP IN C# - Partial Classe\obj\Debug\OOP IN C# - Partial Classe.exe
+D:\C# OOP\OOP IN C# - Partial Classe\obj\Debug\OOP IN C# - Partial Classe.pdb

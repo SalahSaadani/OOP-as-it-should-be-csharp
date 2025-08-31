@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP IN C# - Sealed Method", "OOP IN C# - Sealed Method.csproj", "{EC14A499-5567-4385-86F0-B0CDC49EE40E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC14A499-5567-4385-86F0-B0CDC49EE40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC14A499-5567-4385-86F0-B0CDC49EE40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC14A499-5567-4385-86F0-B0CDC49EE40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC14A499-5567-4385-86F0-B0CDC49EE40E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28A0AC7A-0133-4CC7-88AB-4B9866F5BE99}
+	EndGlobalSection
+EndGlobal

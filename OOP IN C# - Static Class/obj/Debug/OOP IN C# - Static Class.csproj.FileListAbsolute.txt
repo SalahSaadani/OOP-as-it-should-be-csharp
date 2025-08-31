@@ -1,0 +1,8 @@
+D:\C# OOP\OOP IN C# - Static Class\bin\Debug\OOP IN C# - Static Class.exe.config
+D:\C# OOP\OOP IN C# - Static Class\bin\Debug\OOP IN C# - Static Class.exe
+D:\C# OOP\OOP IN C# - Static Class\bin\Debug\OOP IN C# - Static Class.pdb
+D:\C# OOP\OOP IN C# - Static Class\obj\Debug\OOP IN C# - Static Class.csproj.AssemblyReference.cache
+D:\C# OOP\OOP IN C# - Static Class\obj\Debug\OOP IN C# - Static Class.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP IN C# - Static Class\obj\Debug\OOP IN C# - Static Class.exe
+D:\C# OOP\OOP IN C# - Static Class\obj\Debug\OOP IN C# - Static Class.pdb
+D:\C# OOP\OOP IN C# - Static Class\obj\Debug\OOP IN C# - Static Class.exe.config
