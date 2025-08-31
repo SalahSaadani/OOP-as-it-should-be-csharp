@@ -1,0 +1,7 @@
+D:\C# OOP\OOP IN C# - Static Members\bin\Debug\OOP IN C# - Static Members.exe.config
+D:\C# OOP\OOP IN C# - Static Members\bin\Debug\OOP IN C# - Static Members.exe
+D:\C# OOP\OOP IN C# - Static Members\bin\Debug\OOP IN C# - Static Members.pdb
+D:\C# OOP\OOP IN C# - Static Members\obj\Debug\OOP IN C# - Static Members.csproj.AssemblyReference.cache
+D:\C# OOP\OOP IN C# - Static Members\obj\Debug\OOP IN C# - Static Members.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP IN C# - Static Members\obj\Debug\OOP IN C# - Static Members.exe
+D:\C# OOP\OOP IN C# - Static Members\obj\Debug\OOP IN C# - Static Members.pdb

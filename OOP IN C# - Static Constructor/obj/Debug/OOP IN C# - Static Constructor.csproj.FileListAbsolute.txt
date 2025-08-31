@@ -1,0 +1,7 @@
+D:\C# OOP\OOP IN C# - Static Constructor\bin\Debug\OOP IN C# - Static Constructor.exe.config
+D:\C# OOP\OOP IN C# - Static Constructor\bin\Debug\OOP IN C# - Static Constructor.exe
+D:\C# OOP\OOP IN C# - Static Constructor\bin\Debug\OOP IN C# - Static Constructor.pdb
+D:\C# OOP\OOP IN C# - Static Constructor\obj\Debug\OOP IN C# - Static Constructor.csproj.AssemblyReference.cache
+D:\C# OOP\OOP IN C# - Static Constructor\obj\Debug\OOP IN C# - Static Constructor.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP IN C# - Static Constructor\obj\Debug\OOP IN C# - Static Constructor.exe
+D:\C# OOP\OOP IN C# - Static Constructor\obj\Debug\OOP IN C# - Static Constructor.pdb

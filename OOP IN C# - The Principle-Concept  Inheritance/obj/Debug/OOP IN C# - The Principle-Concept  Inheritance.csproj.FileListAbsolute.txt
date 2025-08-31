@@ -1,0 +1,7 @@
+D:\C# OOP\OOP IN C# - The Principle-Concept  Inheritance\bin\Debug\OOP IN C# - The Principle-Concept  Inheritance.exe.config
+D:\C# OOP\OOP IN C# - The Principle-Concept  Inheritance\bin\Debug\OOP IN C# - The Principle-Concept  Inheritance.exe
+D:\C# OOP\OOP IN C# - The Principle-Concept  Inheritance\bin\Debug\OOP IN C# - The Principle-Concept  Inheritance.pdb
+D:\C# OOP\OOP IN C# - The Principle-Concept  Inheritance\obj\Debug\OOP IN C# - The Principle-Concept  Inheritance.csproj.AssemblyReference.cache
+D:\C# OOP\OOP IN C# - The Principle-Concept  Inheritance\obj\Debug\OOP IN C# - The Principle-Concept  Inheritance.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP IN C# - The Principle-Concept  Inheritance\obj\Debug\OOP IN C# - The Principle-Concept  Inheritance.exe
+D:\C# OOP\OOP IN C# - The Principle-Concept  Inheritance\obj\Debug\OOP IN C# - The Principle-Concept  Inheritance.pdb

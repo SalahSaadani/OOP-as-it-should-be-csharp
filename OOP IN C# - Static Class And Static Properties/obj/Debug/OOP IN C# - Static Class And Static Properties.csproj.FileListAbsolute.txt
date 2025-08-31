@@ -1,0 +1,7 @@
+D:\C# OOP\OOP IN C# - Static Class And Static Properties\bin\Debug\OOP IN C# - Static Class And Static Properties.exe.config
+D:\C# OOP\OOP IN C# - Static Class And Static Properties\bin\Debug\OOP IN C# - Static Class And Static Properties.exe
+D:\C# OOP\OOP IN C# - Static Class And Static Properties\bin\Debug\OOP IN C# - Static Class And Static Properties.pdb
+D:\C# OOP\OOP IN C# - Static Class And Static Properties\obj\Debug\OOP IN C# - Static Class And Static Properties.csproj.AssemblyReference.cache
+D:\C# OOP\OOP IN C# - Static Class And Static Properties\obj\Debug\OOP IN C# - Static Class And Static Properties.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP IN C# - Static Class And Static Properties\obj\Debug\OOP IN C# - Static Class And Static Properties.exe
+D:\C# OOP\OOP IN C# - Static Class And Static Properties\obj\Debug\OOP IN C# - Static Class And Static Properties.pdb
