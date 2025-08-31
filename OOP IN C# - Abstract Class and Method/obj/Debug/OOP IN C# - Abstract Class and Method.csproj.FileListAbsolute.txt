@@ -1,0 +1,7 @@
+D:\C# OOP\OOP IN C# - Abstract Class and Method\bin\Debug\OOP IN C# - Abstract Class and Method.exe.config
+D:\C# OOP\OOP IN C# - Abstract Class and Method\bin\Debug\OOP IN C# - Abstract Class and Method.exe
+D:\C# OOP\OOP IN C# - Abstract Class and Method\bin\Debug\OOP IN C# - Abstract Class and Method.pdb
+D:\C# OOP\OOP IN C# - Abstract Class and Method\obj\Debug\OOP IN C# - Abstract Class and Method.csproj.AssemblyReference.cache
+D:\C# OOP\OOP IN C# - Abstract Class and Method\obj\Debug\OOP IN C# - Abstract Class and Method.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP IN C# - Abstract Class and Method\obj\Debug\OOP IN C# - Abstract Class and Method.exe
+D:\C# OOP\OOP IN C# - Abstract Class and Method\obj\Debug\OOP IN C# - Abstract Class and Method.pdb

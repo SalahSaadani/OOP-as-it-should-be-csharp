@@ -1,0 +1,7 @@
+D:\C# OOP\OOP IN C# - Auto Implemented Properties\bin\Debug\OOP IN C# - Auto Implemented Properties.exe.config
+D:\C# OOP\OOP IN C# - Auto Implemented Properties\bin\Debug\OOP IN C# - Auto Implemented Properties.exe
+D:\C# OOP\OOP IN C# - Auto Implemented Properties\bin\Debug\OOP IN C# - Auto Implemented Properties.pdb
+D:\C# OOP\OOP IN C# - Auto Implemented Properties\obj\Debug\OOP IN C# - Auto Implemented Properties.csproj.AssemblyReference.cache
+D:\C# OOP\OOP IN C# - Auto Implemented Properties\obj\Debug\OOP IN C# - Auto Implemented Properties.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP IN C# - Auto Implemented Properties\obj\Debug\OOP IN C# - Auto Implemented Properties.exe
+D:\C# OOP\OOP IN C# - Auto Implemented Properties\obj\Debug\OOP IN C# - Auto Implemented Properties.pdb

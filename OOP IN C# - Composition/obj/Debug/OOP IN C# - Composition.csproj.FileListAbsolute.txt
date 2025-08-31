@@ -1,0 +1,7 @@
+D:\C# OOP\OOP IN C# - Composition\bin\Debug\OOP IN C# - Composition.exe.config
+D:\C# OOP\OOP IN C# - Composition\bin\Debug\OOP IN C# - Composition.exe
+D:\C# OOP\OOP IN C# - Composition\bin\Debug\OOP IN C# - Composition.pdb
+D:\C# OOP\OOP IN C# - Composition\obj\Debug\OOP IN C# - Composition.csproj.AssemblyReference.cache
+D:\C# OOP\OOP IN C# - Composition\obj\Debug\OOP IN C# - Composition.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP IN C# - Composition\obj\Debug\OOP IN C# - Composition.exe
+D:\C# OOP\OOP IN C# - Composition\obj\Debug\OOP IN C# - Composition.pdb
