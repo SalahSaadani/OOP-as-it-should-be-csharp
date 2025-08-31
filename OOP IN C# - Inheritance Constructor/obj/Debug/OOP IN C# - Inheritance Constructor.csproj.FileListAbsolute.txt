@@ -1,0 +1,7 @@
+D:\C# OOP\OOP IN C# - Inheritance Constructor\bin\Debug\OOP IN C# - Inheritance Constructor.exe.config
+D:\C# OOP\OOP IN C# - Inheritance Constructor\bin\Debug\OOP IN C# - Inheritance Constructor.exe
+D:\C# OOP\OOP IN C# - Inheritance Constructor\bin\Debug\OOP IN C# - Inheritance Constructor.pdb
+D:\C# OOP\OOP IN C# - Inheritance Constructor\obj\Debug\OOP IN C# - Inheritance Constructor.csproj.AssemblyReference.cache
+D:\C# OOP\OOP IN C# - Inheritance Constructor\obj\Debug\OOP IN C# - Inheritance Constructor.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP IN C# - Inheritance Constructor\obj\Debug\OOP IN C# - Inheritance Constructor.exe
+D:\C# OOP\OOP IN C# - Inheritance Constructor\obj\Debug\OOP IN C# - Inheritance Constructor.pdb

@@ -1,0 +1,7 @@
+D:\C# OOP\OOP IN C# - Parameterized Constructor\bin\Debug\OOP IN C# - Parameterized Constructor.exe.config
+D:\C# OOP\OOP IN C# - Parameterized Constructor\bin\Debug\OOP IN C# - Parameterized Constructor.exe
+D:\C# OOP\OOP IN C# - Parameterized Constructor\bin\Debug\OOP IN C# - Parameterized Constructor.pdb
+D:\C# OOP\OOP IN C# - Parameterized Constructor\obj\Debug\OOP IN C# - Parameterized Constructor.csproj.AssemblyReference.cache
+D:\C# OOP\OOP IN C# - Parameterized Constructor\obj\Debug\OOP IN C# - Parameterized Constructor.csproj.CoreCompileInputs.cache
+D:\C# OOP\OOP IN C# - Parameterized Constructor\obj\Debug\OOP IN C# - Parameterized Constructor.exe
+D:\C# OOP\OOP IN C# - Parameterized Constructor\obj\Debug\OOP IN C# - Parameterized Constructor.pdb
